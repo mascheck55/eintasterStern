@@ -1,3 +1,7 @@
+## GNU GPL V3
+
+Copyright (c) 2026 Andreas Mascheck
+
 # Weihnachtsstern – intelligente Lichtsteuerung mit ATtiny412
 
 Eine stromsparende Lichtsteuerung für einen beleuchteten Weihnachtsstern. Die Steuerung verwendet einen **ATtiny412**, einen Lichtsensor und eine PWM-gesteuerte MOSFET-Endstufe.
@@ -123,4 +127,7 @@ Die verwendeten PWM-Stufen und der Lichtsensor-Schwellwert können im Quellcode 
 
 ## Lizenz
 
-Noch nicht festgelegt.
+## GNU GPL V3
+
+Copyright (c) 2026 Andreas Mascheck
+
